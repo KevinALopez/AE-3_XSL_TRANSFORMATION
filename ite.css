@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.felx-center-column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tel-web {
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+
+.prof-container {
+    margin-top: 30px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+table {
+    border-spacing: 0;
+    margin-top: 10px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+form {
+    gap: 20px;
+}
+
+label {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
